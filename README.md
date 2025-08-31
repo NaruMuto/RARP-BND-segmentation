@@ -3,8 +3,11 @@ Code of deep learning segmentation model for bladder neck dissection  during rob
 
 This repository provides implementation of UNet, UNet++, DeepLabv3+ models. 
 
-The **base model** demonstrated in our manuscript is provided as `ZEUS_Basel.h5`.  
-In addition, prototype and final models obtained via active learning are included.
+The following trained models are provided:
+
+- `ZEUS_base.h5` : Base model demonstrated in the manuscript
+- `ZEUS_prototype.h5` : Prototype model obtained after the first step active learning
+- `ZEUS_final.h5` : Final model obtained after the second step active learning
 
 ---
 
