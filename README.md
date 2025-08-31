@@ -8,6 +8,7 @@ The following trained models are provided:
 - `ZEUS_base.h5` : Base model used in the manuscript
 - `ZEUS_prototype.h5` : Prototype model used in the manuscript
 - `ZEUS_final.h5` : Final model used in the manuscript
+[Zenodo DOI](https://doi.org/10.5281/zenodo.17010634)
 
 ---
 
