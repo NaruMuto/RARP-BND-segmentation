@@ -5,9 +5,9 @@ This repository provides implementation of UNet, UNet++, DeepLabv3+ models.
 
 The following trained models are provided:
 
-- `ZEUS_base.h5` : Base model demonstrated in the manuscript
-- `ZEUS_prototype.h5` : Prototype model obtained after the first step active learning
-- `ZEUS_final.h5` : Final model obtained after the second step active learning
+- `ZEUS_base.h5` : Base model used in the manuscript
+- `ZEUS_prototype.h5` : Prototype model used in the manuscript
+- `ZEUS_final.h5` : Final model used in the manuscript
 
 ---
 
